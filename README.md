@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi, I'm Jack 👋
+### I'm a software developer with [Impakter](https://impakter.com/)&nbsp; 🌍
+<br />
+
+### 💻 &nbsp; [jackcogg.in](https://jackcogg.in)
+
+<br />
 
 <!--
 **jkcog/jkcog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkcog&show_icons=true&theme=radical&hide_border=true&hide=contribs,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkcog&theme=radical&hide_border=true&)](https://github.com/anuraghazra/github-readme-stats)
