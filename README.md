@@ -1,5 +1,5 @@
 # Hi, I'm Jack 👋
-### I'm a software developer with AND Digital; 
+### I'm a software developer with AND Digital
 <br />
 
 ### 💻 &nbsp; [jackcogg.in](https://jackcogg.in)
